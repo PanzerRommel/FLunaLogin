@@ -11,6 +11,6 @@ namespace BL
 {
     public class UsuarioLogin
     {
-
+         
     }
 }
